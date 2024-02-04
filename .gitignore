@@ -1,0 +1,38 @@
+dist/
+tmp/
+build/
+coverage/
+tmp/
+run/
+log/
+
+# Node
+node_modules/
+package-lock.json
+
+# wsl2
+*:Zone.Identifier
+
+# emacs
+# cached changes
+\#*\#
+.#*
+*~
+.pdf-view-restore
+
+# vim
+:w
+
+# ------- Transient files
+*.log
+*.logs
+*.out
+*.tar.gz
+
+# ------- Environment variables
+.env
+.env.*
+.env.*.local
+.env.local
+env.local
+env.*.local

@@ -1,0 +1,19 @@
+{
+  "name": "intrasoft-bookstore",
+  "description": "A digital bookstore designed for intrasoft's screening process",
+  "author": "pavlos noulis <pavlos.noulis@gmail.com> (https://github.com/pnoulis)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pnoulis/bookstore.git"
+  },
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
