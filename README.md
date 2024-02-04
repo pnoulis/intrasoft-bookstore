@@ -15,3 +15,8 @@ A digital bookstore designed for intrasoft's screening process.
 Pavlos noulis - pavlos.noulis@gmail.com
 
 project link - [bookstore](https://github.com/pnoulis/bookstore)
+
+## License
+
+see `LICENSE`
+
