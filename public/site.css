@@ -1,0 +1,20 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Saira;
+}
+
+#root {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  max-width: 1920px;
+  max-height: 1080px;
+  background-color: white;
+  overflow: auto;
+  z-index: 2;
+}
