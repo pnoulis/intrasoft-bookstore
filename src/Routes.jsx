@@ -1,4 +1,5 @@
 import * as React from "react";
+import { Scratch } from "./scratch/Scratch.jsx";
 import {
   RouterProvider,
   createBrowserRouter,
@@ -21,6 +22,10 @@ function Routes() {
             { path: "books/:bookId", element: <Book /> },
             { path: "books/add", element: <AddBook /> },
           ],
+        },
+        {
+          path: "/scratch",
+          element: <Scratch />,
         },
       ])}
     />
